@@ -57,7 +57,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TaskDAOImpl.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TaskDAOImpl.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/nick/test_me/dao/impl/TaskDAOImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
@@ -66,10 +66,42 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="test_me_db_init_tables.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_init_tables.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="232">
+              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_me_db_free_tip.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_free_tip.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20">
+              <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_me_db_complete.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_complete.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_me_db_task.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_task.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
       <file leaf-file-name="LoadUserImageCommand.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/LoadUserImageCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
+            <state relative-caret-position="720">
               <caret line="36" selection-start-line="36" selection-end-line="36" />
             </state>
           </provider>
@@ -98,8 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/solve/impl/SolveFormatCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/solve/impl/SolveCodeConcatCommand.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/js/admin_menu.js" />
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/util/TaskPageHolder.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/styles/pattern-style.css" />
@@ -149,6 +179,8 @@
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/service/UserService.java" />
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/LoadUserImageCommand.java" />
+        <option value="$PROJECT_DIR$/DB initialization scripts/init-schema.sql" />
+        <option value="$PROJECT_DIR$/DB initialization scripts/test_me_db_complete.sql" />
       </list>
     </option>
   </component>
@@ -186,16 +218,20 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <autoscrollToSource ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -206,79 +242,12 @@
             <path>
               <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
               <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test_me" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test_me" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test_me" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test_me" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-              <item name="impl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="tesmesoft" type="b2602c69:ProjectViewProjectNode" />
-              <item name="tesmesoft" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="DB initialization scripts" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -287,6 +256,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL&#10;MariaDB" />
     <property name="database.console.LAST_STATE" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DB initialization scripts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -556,6 +526,7 @@
       <workItem from="1528892221684" duration="9100000" />
       <workItem from="1528961318629" duration="1524000" />
       <workItem from="1528988941820" duration="686000" />
+      <workItem from="1537255245027" duration="393000" />
     </task>
     <servers />
   </component>
@@ -592,44 +563,45 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150146000" />
+    <option name="totallyTimeSpent" value="150539000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.34818482" />
+      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32838285" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="SQL Generator" weight="0.5368917" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3290469" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4620462" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.34818482" />
-      <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32838285" />
-      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32980332" />
-      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.42739275" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32838285" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.5148515" visible="true" weight="0.35779122" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5148515" visible="true" weight="0.36308622" />
       <window_info id="Web" order="6" sideWeight="0.48514852" side_tool="true" weight="0.2647504" />
-      <window_info anchor="right" id="Database" order="5" weight="0.3290469" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4620462" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.32838285" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Database Console" order="13" sideWeight="0.49924356" weight="0.4009901" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32838285" />
     </layout>
     <layout-to-restore>
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32838285" />
@@ -676,7 +648,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/GetMarkTest.java</url>
+          <url />
           <line>40</line>
           <properties />
           <option name="timeStamp" value="70" />
@@ -700,37 +672,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/commands.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="96" lean-forward="true" selection-start-line="96" selection-end-line="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/GetMarkTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="36" column="9" lean-forward="true" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/webapp/test.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://c2322e7c-af72-4d08-b3f7-17652bde8012/schema/test_me_db/table/free_tip">
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c2322e7c-af72-4d08-b3f7-17652bde8012/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
@@ -1028,7 +969,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/LoadUserImageCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
+        <state relative-caret-position="720">
           <caret line="36" selection-start-line="36" selection-end-line="36" />
         </state>
       </provider>
@@ -1051,6 +992,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="164" selection-start-line="164" selection-end-line="164" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_task.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_init_tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_free_tip.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_complete.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
