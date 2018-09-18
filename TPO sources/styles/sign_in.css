@@ -1,0 +1,87 @@
+.sign-in-task{
+    float: right;
+    min-width: 250px;
+    height: 80%;
+    width: 40%;
+    margin-top: 100px;
+    margin-right: 60px;
+    background-color: white;
+    border: 1px solid #a1a1a1;
+    color:  #a1a1a1;
+}
+
+.sign-in-task h2{
+    margin-top: 5px;
+    color: #e5e5e5;
+    font-weight: normal;
+    text-align: center;
+    font-size: 30px;
+}
+
+.tip{
+    float:left;
+    min-width:250px;
+    height: 53%;
+    width: 40%;
+    margin-top: 130px;
+    margin-left: 60px;
+    color:  #a1a1a1;
+}
+
+#tip-image{
+    display: inline-block;
+    vertical-align: -5px;
+    width: 30px;
+    height: 30px;
+    top: 15px;
+}
+
+#tip-title{
+    display: inline-block;
+    height: 51px;
+    width: 300px;
+    font-size: 24px;
+
+}
+
+#tip-text{
+    padding: 10px;
+    min-height:270px;
+    font-size: 14px;
+    overflow-y: scroll;
+    border: 1px solid #a1a1a1;
+}
+
+#sign-in-form{
+    position: relative;
+    height: 40%;
+    width: 90%;
+    margin: 30% auto;
+}
+
+.input{
+    min-width: 120px;
+    width: 80%;
+    max-width: 340px;
+    margin:10px 5px;
+}
+
+.input input{
+    float: right;
+    background-color: #ebebeb;
+    border: 1px solid #959595;
+    height: 25px;
+    font-size: 14px;
+}
+
+#sign-in-form button{
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    margin-left: 40%;
+    align-content: center;
+
+}
+
