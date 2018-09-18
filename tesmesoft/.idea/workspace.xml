@@ -69,8 +69,8 @@
       <file leaf-file-name="test_me_db_init_tables.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_init_tables.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
+            <state relative-caret-position="20">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -130,7 +130,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/webapp/js/admin_menu.js" />
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/util/TaskPageHolder.java" />
         <option value="$PROJECT_DIR$/src/main/webapp/styles/pattern-style.css" />
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/AddUserCommand.java" />
@@ -181,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/main/java/by/nick/test_me/controller/command/impl/LoadUserImageCommand.java" />
         <option value="$PROJECT_DIR$/DB initialization scripts/init-schema.sql" />
         <option value="$PROJECT_DIR$/DB initialization scripts/test_me_db_complete.sql" />
+        <option value="$PROJECT_DIR$/DB initialization scripts/test_me_db_init_tables.sql" />
       </list>
     </option>
   </component>
@@ -218,7 +218,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -526,7 +526,7 @@
       <workItem from="1528892221684" duration="9100000" />
       <workItem from="1528961318629" duration="1524000" />
       <workItem from="1528988941820" duration="686000" />
-      <workItem from="1537255245027" duration="393000" />
+      <workItem from="1537255245027" duration="1034000" />
     </task>
     <servers />
   </component>
@@ -563,11 +563,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150539000" />
+    <option name="totallyTimeSpent" value="151180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50075644" side_tool="true" weight="0.34818482" />
@@ -648,7 +647,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url />
+          <url>file://$PROJECT_DIR$/src/test/GetMarkTest.java</url>
           <line>40</line>
           <properties />
           <option name="timeStamp" value="70" />
@@ -998,17 +997,17 @@
     <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_task.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_init_tables.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="47" column="21" selection-start-line="47" selection-start-column="21" selection-end-line="47" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_free_tip.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="20">
           <caret line="1" column="46" lean-forward="true" selection-start-line="1" selection-start-column="46" selection-end-line="1" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DB initialization scripts/test_me_db_init_tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
